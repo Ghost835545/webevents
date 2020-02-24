@@ -1,0 +1,44 @@
+
+body
+{
+    background-image:url(../pictures/more.jpg);
+    background-repeat:no-repeat;
+    background-size:cover;
+    margin:0;
+    padding:0
+
+}
+html {
+    overflow-y:hidden;
+}
+#content{
+    height:800px;
+    background:#fdfcd8;
+    width:1150px;
+    outline:1px solid #cccccc;
+    padding:5px;
+    margin:0 auto;
+}
+/*#content{
+    height:800px;
+    width:1150px;
+}*/
+#footer{
+    height:77px;
+    background:#89B4B9;
+}
+#title{
+    position:relative;
+    bottom:5px;
+    font-family:Verdana;
+    text-align:center;
+    color: #3abaf8;
+}
+
+#header  {
+    height:330px;
+    outline: 2px solid #27F84D
+}
+
+
+

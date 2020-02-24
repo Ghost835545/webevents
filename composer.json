@@ -1,0 +1,6 @@
+{
+    "require": {
+        "jenssegers/mongodb": "^3.6",
+      "ext-json": "*"
+    }
+}

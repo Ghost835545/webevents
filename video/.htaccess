@@ -1,0 +1,4 @@
+AddType application/x-httpd-php .html .htm
+AddType video/ogg .ogv
+AddType video/mp4 .mp4
+AddType video/webm .webm
